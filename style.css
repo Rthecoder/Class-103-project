@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(#eeaeca, #94bbe9);
+    color: linear-gradient(#020024, #cceceb, #ffb300);
+}
+
+.heading{
+width: 80%;
+font-size: 22px;
+}
+
+.Family_Members{
+    color: crimson;
+
+}
+#camera{
+    border: 2px solid crimson;
+    width: 378px;
+    height: 320px;
+}
